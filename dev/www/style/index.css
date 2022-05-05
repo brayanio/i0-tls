@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&display=swap');
+
+html, body{
+    background: black;
+}
+app{
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(36,0,0,1) 0%, rgba(101,72,72,1) 29%, rgba(180,160,160,1) 100%);
+    position: fixed;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    overflow-y: auto;
+}
+
+.tls-font{
+    font-family: 'Courier Prime', monospace !important;
+}
+
+.api-accordion .accordion-item, .api-accordion .accordion-button{
+    border: none;
+}

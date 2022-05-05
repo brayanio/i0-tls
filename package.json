@@ -1,0 +1,14 @@
+{
+  "name": "i0-tls",
+  "version": "0.0.0",
+  "author": "brayanbyrdsong@gmail.com",
+  "description": "tls website",
+  "main": "build/index.js",
+  "scripts": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brayanio/i0-tls.git"
+  },
+  "keywords": [ "i0" ],
+  "license": "MIT"
+}
