@@ -5,7 +5,6 @@
         <div>
             <a href="#" class="navbar-brand tls-font"><img src="./asset/logo.PNG" width="32" height="32"></a>
             <a href="https://wispcrypto.com" class="navbar-brand tls-font"><img src="./asset/wisp.PNG" width="32" height="32"></a>
-            <a href="https://gmrengine.com" class="navbar-brand tls-font"><img src="./asset/gmr.PNG" width="32" height="32"></a>
             <a href="https://i0framework.com" class="navbar-brand tls-font"><img src="./asset/i0.PNG" width="32" height="32"></a>
         </div>
        

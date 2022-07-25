@@ -1,6 +1,6 @@
 'news-card',
 `
-<div class="col-sm-6 col-md-4 col-xl-4">
+<div class="col-sm-6 col-md-4 col-xl-3">
   <a class="card m-2 text-decoration-none text-white bg-success" i0="link">
     <h6 class="card-header text-center" i0="title"></h6>
     <div class="card-body">
