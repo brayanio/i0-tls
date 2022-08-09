@@ -4,7 +4,7 @@
     <br>
     <div class="container">
         <div class="card bg-dark text-white border-0">
-            <div class="card-body">
+            <div class="container">
                 <div class="d-flex align-items-end mb-4">
                     <img src="./asset/logo.PNG" width="128" height="128">
                     <h1 class="card-title tls-font ps-4">Todd Lewis Studio</h1>
@@ -15,7 +15,7 @@
                 <br class="my-3">
                 <div class="row bg-light bg-opacity-10 py-5">
                     <h3 class="card-title text-center mb-4">News</h3>
-                    <div class="row flex-row-reverse justify-content-center" i0="news"></div>
+                    <div class="row flex-md-row-reverse flex-column-reverse justify-content-center" i0="news"></div>
                 </div>
                 <div class="row bg-black bg-opacity-50 py-5">
                     <h3 class="card-title text-center mb-4">Products</h3>
