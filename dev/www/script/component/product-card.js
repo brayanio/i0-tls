@@ -2,7 +2,7 @@
 `
 <div class="col-sm-6 col-md-4 col-lg-3 p-2">
   <div class="card bg-transparent shadow-0 border-0">
-      <img i0="img" class="card-img-top mb-3">
+      <img i0="img" class="card-img-top mb-3 img-res">
       <div class="card-body bg-dark" i0="border">
           <h4 class="card-title tls-font" i0="title"></h4>
           <p class="card-text" i0="desc" style="height: 80px"></p>

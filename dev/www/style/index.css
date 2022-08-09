@@ -22,3 +22,11 @@ app{
 .api-accordion .accordion-item, .api-accordion .accordion-button{
     border: none;
 }
+
+@media screen and (max-width: 400px) {
+    .img-res{
+        width: 200px !important;
+        margin: auto;
+        margin-top: 1rem;
+    }
+}

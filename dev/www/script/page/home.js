@@ -15,27 +15,35 @@
                 <br class="my-3">
                 <div class="row bg-light bg-opacity-10 py-5">
                     <h3 class="card-title text-center mb-4">News</h3>
-                    <div class="row flex-md-row-reverse flex-column-reverse justify-content-center" i0="news"></div>
+                    <div class="container">
+                        <div class="row flex-sm-row-reverse flex-column-reverse justify-content-center" i0="news"></div>
+                    </div>
                 </div>
                 <div class="row bg-black bg-opacity-50 py-5">
                     <h3 class="card-title text-center mb-4">Products</h3>
-                    <div class="row justify-content-center" i0="products"></div>
+                    <div class="container">
+                        <div class="row justify-content-center" i0="products"></div>
+                    </div>
                 </div>
                 <div class="row bg-danger bg-opacity-10 py-5">
                     <h3 class="card-title text-center mb-4">Mission</h3>
-                    <div class="row d-flex align-items-center my-4">
-                        <div class="col-md-4 text-center text-md-end">
-                            <img src="./asset/me.PNG" width="180" height="180" class="rounded shadow-sm">
-                        </div>
-                        <div class="col-md-6 offset-md-1">
-                            <b class="card-title">Todd Lewis</b>
-                            <p class="card-text">I created this company to express my authentic creative style. Some of my passions include coding, crypto, and meditation. I hope to cultivate an audience and provide an experience that is worth remembering.</p>
+                    <div class="container">
+                        <div class="row d-flex align-items-center my-4">
+                            <div class="col-md-4 text-center text-md-end">
+                                <img src="./asset/me.PNG" width="180" height="180" class="rounded shadow-sm">
+                            </div>
+                            <div class="col-md-6 offset-md-1">
+                                <b class="card-title">Todd Lewis</b>
+                                <p class="card-text">I created this company to express my authentic creative style. Some of my passions include coding, crypto, and meditation. I hope to cultivate an audience and provide an experience that is worth remembering.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="row bg-primary bg-opacity-10 py-5">
                     <h3 class="card-title text-center mb-4">Social</h3>
-                    <div class="row justify-content-center" i0="socials"></div>
+                    <div class="container">
+                        <div class="row justify-content-center" i0="socials"></div>
+                    </div>
                 </div>
                 <div class="row justify-content-center py-5">
                     <h3 class="card-title text-center mb-4">Business</h3>
